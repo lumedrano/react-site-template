@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-site-template/static/css/main.9b6d3cae.css",
+    "main.js": "/react-site-template/static/js/main.43c00905.js",
+    "static/js/453.311b3dbc.chunk.js": "/react-site-template/static/js/453.311b3dbc.chunk.js",
+    "static/media/BlankBevo.mp4": "/react-site-template/static/media/BlankBevo.732fbc8786b75288066b.mp4",
+    "static/media/navbar_logo.png": "/react-site-template/static/media/navbar_logo.9bc29b4311d8675bc516.png",
+    "index.html": "/react-site-template/index.html",
+    "main.9b6d3cae.css.map": "/react-site-template/static/css/main.9b6d3cae.css.map",
+    "main.43c00905.js.map": "/react-site-template/static/js/main.43c00905.js.map",
+    "453.311b3dbc.chunk.js.map": "/react-site-template/static/js/453.311b3dbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b6d3cae.css",
+    "static/js/main.43c00905.js"
+  ]
+}
