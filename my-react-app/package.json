@@ -1,5 +1,5 @@
 {
-  "homepage": "https://lumedrano.github.io/react-site-template",
+  "homepage": "https://{YOUR_GITHUB_USERNAME}.github.io/{YOUR_REPO_NAME}",
   "name": "my-react-app",
   "version": "0.1.0",
   "private": true,

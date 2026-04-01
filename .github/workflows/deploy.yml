@@ -19,7 +19,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '20' #May become depreciated later on, test other versions of Node if you would like
 
       - name: Install dependencies
         run: npm ci
@@ -33,5 +33,5 @@ jobs:
       - name: Build and Deploy
         run: |
           npm run build
-          npx gh-pages -d build --repo https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/lumedrano/react-site-template.git
+          npx gh-pages -d build --repo https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/{YOUR_GITHUB_USERNAME}/{YOUR_REPO_NAME}.git
         working-directory: ./my-react-app
